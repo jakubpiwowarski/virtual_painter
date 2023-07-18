@@ -17,7 +17,7 @@ Virtual Painter is a computer vision project that utilizes the OpenCV library to
 
 ## Usage
 
-1. Clone the repository: `git clone https://github.com/jakubpiwowarski/virtual-painter.git`
+1. Clone the repository: `git clone https://github.com/jakubpiwowarski/virtual_painter_cpp.git`
 2. Navigate to the project directory: `cd virtual-painter`
 3. Compile the source code: `g++ virtual_painter.cpp -o virtual_painter `pkg-config --libs opencv``
 4. Run the program: `./virtual_painter`
